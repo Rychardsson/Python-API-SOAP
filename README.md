@@ -1,7 +1,9 @@
 # Python-API-SOAP
+
 O código acima serve para criar um servidor SOAP usando Python. Esse servidor pode receber solicitações (requests) via o protocolo SOAP, processar essas solicitações e retornar respostas (responses) apropriadas. SOAP (Simple Object Access Protocol) é um protocolo baseado em XML usado para troca de informações estruturadas na implementação de serviços web.
 
 Funcionalidade Específica do Código
+
 O código define um serviço de calculadora com quatro operações básicas:
 
 Soma (add): Recebe dois números inteiros e retorna a soma deles.
